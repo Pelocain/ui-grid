@@ -38,7 +38,7 @@
           remove: 'Enlever le tri'
         },
         column: {
-          hide: 'Cacher la colonne'
+          hide: 'Masquer la colonne'
         },
         aggregation: {
           count: 'lignes totales: ',
